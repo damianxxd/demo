@@ -9,49 +9,5 @@
         "creation_date": "Wed Oct 13 2018 18:11:00 GMT-0700",
         "last_update_date": "Wed Oct 14 2018 12:18:00 GMT-0700",
         "status": "Open"
-    },
-    {
-        "ticket_id": 2001,
-        "from": "karen@zingzen.com",
-        "description": "Dropdown not returning anything",
-        "assigned_to": "agent007@myhelpdesk.com",
-        "body": "The dropdown is blank when I type so fast.",
-        "attachment": null,
-        "creation_date": "Wed Oct 01 2018 18:11:00 GMT-0700",
-        "last_update_date": "Wed Oct 02 2018 15:13:00 GMT-0700",
-        "status": "Closed"
-    },
-    {
-        "ticket_id": 2002,
-        "from": "damien@zingzen.com",
-        "description": "Approve button has disappeared",
-        "assigned_to": "agent52@myhelpdesk.com",
-        "body": "When I submit a request, the admin does not have buttons to approve it.;........",
-        "attachment": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/ie-address-bar-leak.jpg",
-        "creation_date": "Wed Oct 19 2018 11:11:00 GMT-0700",
-        "last_update_date": "Wed Oct 20 2018 11:18:00 GMT-0700",
-        "status": "Open"
-    },
-    {
-        "ticket_id": 2003,
-        "from": "rachel@zingzen.com",
-        "description": "Sorting does not work properly",
-        "assigned_to": "agent002@myhelpdesk.com",
-        "body": "I cannot sort the list alphabetically...........",
-        "attachment": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/ie-address-bar-leak.jpg",
-        "creation_date": "Wed Nov 01 2017 13:11:00 GMT-0700",
-        "last_update_date": "Wed Nov 02 2017 13:13:00 GMT-0700",
-        "status": "Closed"
-    },
-    {
-        "ticket_id": 2004,
-        "from": "tiffany@zingzen.com",
-        "description": "Cannot login to the app.",
-        "assigned_to": "agent22@myhelpdesk.com",
-        "body": "Unable to login to the app. SSO does not work. ",
-        "attachment": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/ie-address-bar-leak.jpg",
-        "creation_date": "Wed Oct 23 2018 16:11:00 GMT-0700",
-        "last_update_date": "Wed Oct 23 2018 16:18:00 GMT-0700",
-        "status": "Open"
     }
 ]
