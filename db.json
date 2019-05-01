@@ -53,16 +53,5 @@
         "creation_date": "Wed Oct 23 2018 16:11:00 GMT-0700",
         "last_update_date": "Wed Oct 23 2018 16:18:00 GMT-0700",
         "status": "Open"
-    },
-    {
-        "ticket_id": 2005,
-        "from": "anirudh@zingzen.com",
-        "description": "Modal does not open properly",
-        "assigned_to": "agent002@myhelpdesk.com",
-        "body": "When I open the modal, the screen is blank...........",
-        "attachment": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/ie-address-bar-leak.jpg",
-        "creation_date": "Wed Oct 25 2018 19:11:00 GMT-0700",
-        "last_update_date": "Wed Oct 25 2018 19:13:00 GMT-0700",
-        "status": "Open"
     }
 ]
